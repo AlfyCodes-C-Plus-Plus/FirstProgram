@@ -1,5 +1,7 @@
 # FirstProgram
 
+A program that asks the user their favorite number.
+
 The purpose of this program is to learn
 
 * The purpose of #include <iostream>
