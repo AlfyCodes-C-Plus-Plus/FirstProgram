@@ -4,7 +4,8 @@
 
 // We are returning an INT.
 // All c++ must have exactly one main function
-int main() {
+int main()
+{
 
     //This is how we declare variables
     int favorite_number;
@@ -15,9 +16,9 @@ int main() {
     // Now we are taking the users input and storing it into the variable
     std::cin >> favorite_number;
 
-    // Now we just print out to the terminal. 
+    // Now we just print out to the terminal.
     std::cout << "Amazing! That's my favorite number too!" << std::endl;
-    
+
     // Return 0 means no errors
     return 0;
 }
