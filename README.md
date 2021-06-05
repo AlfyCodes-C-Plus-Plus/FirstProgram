@@ -12,3 +12,5 @@ The purpose of this program is to learn
 * Doing a regular print for the user to see
 
 Realize that main is returning an int. So, we return 0 to show that everything ran correctly. 
+
+[Don't forget all programs, after complied, are ran by typing: .\exeFileName]
